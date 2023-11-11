@@ -3,7 +3,7 @@
     <div>
         <div class="flex flex-col items-center justify-center mt-16 mb-8 md:mt-28 text-center">
         <p class="mb-4 text-[#F15692] font-bold">FEATURES</p>
-        <p class="text-4xl text-[#4A4A4A] font-bold ">What Benefits you Get</p>
+        <p class="md:text-4xl text-3xl text-[#4A4A4A] font-bold ">What Benefits you Get</p>
       </div>
       <div id="container" class="flex items-center justify-center text-[#4A4A4A] flex-wrap pb-16">
         <div id="card-container" class="shadow-xl rounded-lg flex flex-col items-center justify-center m-4 p-8">
