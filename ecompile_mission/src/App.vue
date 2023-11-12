@@ -2,9 +2,9 @@
   <div id="app">
     <div id="introduction" class="relative">
       <img
-        id="groupe-points"
-        src="assets/images/group_points.png"
-        class="hidden md:block left-16 top-20 md:top-[690px] absolute"
+        id="group-points"
+        src="@/assets/images/group_points.png"
+        class="hidden md:block left-16 top-20 md:top-[640px] absolute"
       />
       <HeaderComponent />   
       <HomeIntroduction />
